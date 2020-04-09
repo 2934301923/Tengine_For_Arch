@@ -28,7 +28,7 @@ cd Tengine_For_Arch
 makepkg -si
 ```
 <hr>
-或者在发行版内下载安装包后执行以下命令安装
+或者在Tag内下载安装包后执行以下命令安装
 
 ```
 pacman -U tengine-2.3.2-1-x86_64.pkg.tar.xz
