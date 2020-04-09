@@ -27,6 +27,20 @@ cd Tengine_For_Arch
 ```
 makepkg -si
 ```
+<hr>
+或者在发行版内下载安装包后执行以下命令安装
+
+```
+pacman -U tengine-2.3.2-1-x86_64.pkg.tar.xz
+
+```
+如果提示缺少依赖，请执行这个命令
+
+```
+pacman -S geoip geoip-database
+```
+然后在执行安装包安装命令即可！
+
 
 #### 使用说明
 
