@@ -32,6 +32,6 @@ makepkg -si
 
 具体使用方法详见Tengine Wiki或者Nginx Wiki！
 ### 联系我
-QQ：2934301923
+QQ：2934301923<br>
 Email：hlyAndroid@163.com
 
