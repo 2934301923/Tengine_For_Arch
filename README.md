@@ -14,7 +14,7 @@
 首先克隆这个仓库
 
 ```
-git clone https://gitee.com/ForMat1_admin/Tengine_For_Arch.git
+git clone https://github.com/2934301923/Tengine_For_Arch.git
 ```
 
 之后进入目录
