@@ -1,9 +1,9 @@
 # Tengine_For_Arch
 
 #### 介绍
-{**以下是码云平台说明，您可以替换此简介**
-码云是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用码云实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+此仓库主要是为了修复在AUR内的tengine无法安装的问题<br>
+原因已经找到，主要是文件校验值的问题，已经解决！<br>
+为广大的用户提供方便
 
 #### 软件架构
 软件架构说明
@@ -11,29 +11,27 @@
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+首先克隆这个仓库
+
+```
+git clone https://gitee.com/ForMat1_admin/Tengine_For_Arch.git
+```
+
+之后进入目录
+
+```
+cd Tengine_For_Arch
+```
+最后执行以下命令安装
+
+```
+makepkg -si
+```
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+具体使用方法详见Tengine Wiki或者Nginx Wiki！
+### 联系我
+QQ：2934301923
+Email：hlyAndroid@163.com
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
